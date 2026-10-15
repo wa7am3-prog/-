@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Our Special World",
-    "slug": "our-special-world-native",
+    "slug": "our-special-world-v2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,18 +11,12 @@
       "resizeMode": "contain",
       "backgroundColor": "#121212"
     },
-    "ios": {
-      "supportsTablet": true
-    },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#121212"
       },
       "package": "com.ad7aam.ourspecialworldnative.v2"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
     }
   }
 }
